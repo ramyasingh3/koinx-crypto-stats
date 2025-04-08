@@ -1,0 +1,1 @@
+db.inventory.deleteMany({})
